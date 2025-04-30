@@ -1,0 +1,3 @@
+[submodule "resips"]
+	path = resips
+	url = git@github.com:Salehpc97/resips.git
